@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674061236225",
+    "firebase_url": "https://newmunlive.firebaseio.com",
+    "project_id": "newmunlive",
+    "storage_bucket": "newmunlive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674061236225:android:9565e109a4e80d66",
+        "android_client_info": {
+          "package_name": "com.srevinsaju.newmun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674061236225-kh7u5miradva26ur3emhllk2pnl0qdpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srevinsaju.newmun",
+            "certificate_hash": "e48f98f607baa43fb6fa1b6f9307814faf155271"
+          }
+        },
+        {
+          "client_id": "674061236225-t3qoeger9l0j9sl13tlng24t3ghvr855.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMAwqcKUIyiotVTPwJAiOwIrLrDwLaL-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674061236225-t3qoeger9l0j9sl13tlng24t3ghvr855.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
